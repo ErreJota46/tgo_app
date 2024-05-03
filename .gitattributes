@@ -1,2 +1,5 @@
 build/app/intermediates/stripped_native_libs/debug/out/lib/arm64-v8a/libVkLayer_khronos_validation.so filter=lfs diff=lfs merge=lfs -text
 build/app/outputs/flutter-apk/app-debug.apk filter=lfs diff=lfs merge=lfs -text
+build/app/intermediates/assets/debug/flutter_assets/kernel_blob.bin filter=lfs diff=lfs merge=lfs -text
+build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/ymz_PkYn6HTYLoQNJjtuKh74Bpw= filter=lfs diff=lfs merge=lfs -text
+build/b39bc7f3217b0491b7263ec2b2a86673.cache.dill.track.dill filter=lfs diff=lfs merge=lfs -text
